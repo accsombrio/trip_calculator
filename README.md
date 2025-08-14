@@ -23,7 +23,7 @@ The input CSV file **must have a header** and the following columns (in this ord
 
 ```
 
-device\_id, lat, lon, timestamp
+device_id, lat, lon, timestamp
 
 ````
 
