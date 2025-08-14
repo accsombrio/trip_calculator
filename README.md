@@ -1,4 +1,3 @@
-markdown
 # GPS Trip Calculator
 
 This Python script processes raw GPS data from a CSV file to generate individual trip files, trip statistics, and a visual representation in GeoJSON format. It also logs invalid or malformed records for further inspection.
